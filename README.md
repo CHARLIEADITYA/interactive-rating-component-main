@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/CHARLIEADITYA/huddle-landing-page.git]
+- Solution URL: [https://github.com/CHARLIEADITYA/interactive-rating-component-main.git]
 - Live Site URL: [https://charlieaditya.github.io/huddle-landing-page/]
 
 ## My process
